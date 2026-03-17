@@ -52,9 +52,9 @@ Update the `channels.js` file to add or modify the list of available channels:
 ---
 
 ## 📄 License & Privacy Policy
-project is under the MIT License. 
-See the [LICENSE](LICENSE.txt) file for details.
-See the [PRIVACY](PRIVACY.md) file for details.
+project is under the MIT License.  
+See the [LICENSE](LICENSE.txt) file for details.  
+See the [PRIVACY](PRIVACY.md) file for details. 
 
 ---
 
