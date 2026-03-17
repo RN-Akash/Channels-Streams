@@ -1,11 +1,8 @@
-# 📺 React Native Live Streaming App
-
+# 📺 React Native Live Streaming App. 
 This is a React Native application that streams live with support for volume and brightness gestures, full-screen landscape video playback, and categorized filtering.
 
 ---
-## 📦 Download APK
-You can download the latest Android APK 
-[⬇️ Download APK](assets/stream.apk)
+## 📦 Download For Android : [⬇️ Download](assets/stream.apk)
 > ⚠️ Make sure to allow installs from unknown sources on your Android device.
 
 ---
@@ -25,26 +22,20 @@ You can download the latest Android APK
 * ❌ **Exit Video Easily**
   Close the video modal with a single tap.
 
----
 
 ## 🚲 Future Enhancements (Suggestions)
-
 * User favorites & persistent storage
 * Chromecast or AirPlay support
 * Background audio playback
 * Program guide (EPG)
-
----
 
 ## 📄 License & Privacy Policy
 project is under the MIT License.  
 See the [LICENSE](LICENSE.txt) file for details.  
 See the [PRIVACY](PRIVACY.md) file for details. 
 
----
-
-## 🙇‍♂️ Contributing
+## 🙇‍♂️ Contributing  
 We welcome contributions to enhance the project.
 
-## 💰 Support this project
+## 💰 Support this project. 
 If you find this project useful, Give A Star 🌟
