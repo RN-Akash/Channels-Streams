@@ -35,32 +35,6 @@ You can download the latest Android APK
 * ❌ **Exit Video Easily**
   Close the video modal with a single tap.
 
----
-
-## 📲 Installation
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/Akash562/Channels.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   npx pod-install    # iOS only
-   ```
-
-3. Run on Android or iOS:
-
-   ```bash
-   npx react-native run-android
-   # or
-   npx react-native run-ios
-   ```
-
----
 
 ## ✍️ Customizing Channels
 
@@ -77,8 +51,10 @@ Update the `channels.js` file to add or modify the list of available channels:
 
 ---
 
-## 📄 License
-project is under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+## 📄 License & Privacy Policy
+project is under the MIT License. 
+See the [LICENSE](LICENSE.txt) file for details.
+See the [PRIVACY](PRIVACY.md) file for details.
 
 ---
 
